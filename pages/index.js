@@ -17,7 +17,7 @@ export default function Home() {
             Web dev, Machine Learning,Cyber security, productivity, nuerobiology
             & I enjoy learning new things. I’m currently learning Devops and web
             development. I’m looking for help with Mentorship for my future
-            endevours. all the link to connect with me:satyam!
+            endevours.
           </p>
         </div>
         <div class="flex flex-wrap">

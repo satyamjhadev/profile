@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import React from "react";
 import Link from "next/link";
 
@@ -26,7 +27,7 @@ function Blog() {
                 </p>
                 <div class="flex items-center flex-wrap ">
                   <Link
-                    href=""
+                    href="blog/the-catalyzer"
                     class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0"
                   >
                     Learn More
@@ -84,7 +85,7 @@ function Blog() {
                 </p>
                 <div class="flex items-center flex-wrap ">
                   <Link
-                    href=""
+                    href="blog/the-catalyzer"
                     class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0"
                   >
                     Learn More
