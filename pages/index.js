@@ -12,10 +12,12 @@ export default function Home() {
             Open-Source Developer & a junior pursuing Bachelors in CSE.
           </h1>
           <p class="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
-            gentrify, subway tile poke farm-to-table. Franzen you probably have
-            heard of them man bun deep jianbing selfies heirloom prism food
-            truck ugh squid celiac humblebrag.
+            I’m an Open-Source enthusiast & a junior pursuing my Bachelors in
+            Computer Science & Engineering. I am passionate about Devops, Cloud,
+            Web dev, Machine Learning,Cyber security, productivity, nuerobiology
+            & I enjoy learning new things. I’m currently learning Devops and web
+            development. I’m looking for help with Mentorship for my future
+            endevours. all the link to connect with me:satyam!
           </p>
         </div>
         <div class="flex flex-wrap">
